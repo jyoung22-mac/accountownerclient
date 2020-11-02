@@ -38,6 +38,7 @@ class App extends Component {
         <Layout>
           <Switch>
             <Route path="/" exact component={Home} />
+            <Route path="/accountownerclient" exact component={Home} />
             <Route path="/owner-list" component={AsyncOwnerList} />
             <Route path="/ownerDetails/:id" component={AsyncOwnerDetails} />
             <Route path="/createOwner" component={AsyncCreateOwner} />

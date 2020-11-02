@@ -2,7 +2,7 @@
   "name": "accountownerclient",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gitname.github.io/jyoung22-mac/accountownerclient",
+  "homepage": "http://jyoung22-mac.github.io/accountownerclient",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
